@@ -9,6 +9,6 @@
 Sign Language Translator
 
 ## Presentation
-[Links to PPTs](https://github.com/Vivojay/muj-hacks-6.0-Reveilon/tree/main/Docs)
+[Link to PPTs](https://github.com/Vivojay/muj-hacks-6.0-Reveilon/tree/main/Docs)
 
 **Members:** Vivan Jaiswal, Priyasha Singh, Vibhor Sharma, Mikhail;
