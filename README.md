@@ -5,7 +5,7 @@
 
 
 ## Topic
-### Open Elective
+### Open Innovation
 Sign Language Translator
 
 ## Presentation
